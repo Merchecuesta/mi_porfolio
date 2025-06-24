@@ -1,4 +1,4 @@
-# 🚢 Batalla Naval - Juego en Python 🎯
+# 🚢 Hundir la Flota - Juego en Python 🎯
 
 Este es un juego de consola estilo **"Hundir la Flota"**, desarrollado en Python. ¡Enfréntate contra una máquina que coloca y dispara de forma aleatoria, y hunde su flota antes de que hunda la tuya!
 
