@@ -8,7 +8,7 @@ Bienvenido a este proyecto de análisis de datos de migración interna y externa
 ## 🧰 Estructura del Proyecto
 
 📁 **`memoria.ipynb`**  
-Jupyter notebook donde explicarás el desarrollo del proyecto con markdown y código de python. (Introducción, Fuentes de datos, Limpiezas, Desarrollo análisis, Medidas estadísticas, Visualizaciones, Conclusiones...)
+Jupyter notebook donde se explica el desarrollo del proyecto con markdown y código de python. (Introducción, Fuentes de datos, Limpiezas, Desarrollo análisis, Medidas estadísticas, Visualizaciones, Conclusiones...)
 
 📁 **`Presentación.html`**  
 Visualización de la presentación usada para la explicación de los datos al cliente
@@ -67,6 +67,6 @@ pip install -r requirements.txt
 ---
 ## 📚 Créditos
 
-Desarrollado por Mercedes Cuesta como parte de un proyecto individual de EDA (Análisis Exploratorio de Datos) en el marco de su formación como Analista de Datos.
+Desarrollado por Mercedes Cuesta como parte de un proyecto individual de EDA 
 
 📕 Julio 2025
