@@ -10,3 +10,5 @@ Marvel Character Downloader
 ¿Es tu vecino vecino?
 📊
 Análisis de datos de migración interna y externa en España, utilizando herramientas modernas de Python para el procesamiento, visualización y extracción automatizada de datos 📈🧪
+
+📊 Predictor de churn en telecomunicaciones, desarrollado con XGBoost, LightGBM, Random Forest, CatBoost... para anticipar bajas y optimizar campañas de retención. 🎯 Recall 0.79, ROC AUC 0.852 y ROI estimado de +16.3%, con despliegue en Streamlit para decisiones rápidas y basadas en datos. 📈🤖
